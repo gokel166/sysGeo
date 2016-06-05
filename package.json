@@ -1,0 +1,17 @@
+{
+  "name": "geoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "george okello",
+  "license": "ISC",
+  "devDependencies": {
+    "2": "0.0.1",
+    "angular": "^1.5.5",
+    "angular2": "^2.0.0-beta.17",
+    "gulp-install": "^0.6.0"
+  }
+}
