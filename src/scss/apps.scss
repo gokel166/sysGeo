@@ -8,13 +8,20 @@ ol {
   padding: 0;
 }
 
-
-body {
-  font: 100% Helvetica, sans-serif;
-  background-color: #efefef;
+h4 {
+    color: white;
 }
 
+body {
+    background-color: $bg-body-col;
+}
 
-#topnav {
-    background-color: aqua;
+section {
+    background-color: $tab1-color;
+    color: white;
+    padding: 5px;
+}
+
+#pic-sec {
+    background-color: #231F18;
 }
